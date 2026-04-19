@@ -1,0 +1,16 @@
+{
+  "name": "minha-api-restful",
+  "version": "1.0.0",
+  "description": "Atividade de refatoração de API RESTful",
+  "main": "server-restful.js",
+  "scripts": {
+    "start": "node server-restful.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
